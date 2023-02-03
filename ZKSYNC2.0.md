@@ -5,6 +5,7 @@ zk-Sync is a Layer 2 scaling solution for the Ethereum network that utilizes zer
 <p align="center">
 <img src="https://user-images.githubusercontent.com/11755605/216637651-6d3159f4-6fc7-41ef-9557-c11158cff2b4.png" width=50% height=50%>
 </p>
+
 ## Programming language to code the VM:
 * Rust
 
@@ -62,3 +63,4 @@ https://github.com/matter-labs/zksync/blob/master/docs/architecture.md
 
 https://vitalik.ca/general/2022/08/04/zkevm.html
 
+https://www.youtube.com/watch?v=y8LlIlCP5eI
