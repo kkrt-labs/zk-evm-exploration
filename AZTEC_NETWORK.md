@@ -1,6 +1,8 @@
 # AZTEC NETWORK
 
-![team image](./assets/aztec.png)
+<p align="center">
+    <img src="./assets/aztec.png" alt="aztec" height="200">
+</p>
 
 This zk-exploration paper aims to depict a global overview of the Aztec Network ZK project.
 
@@ -22,7 +24,9 @@ Aztec initially realeased some of its prover code under the Polaris license join
 
 ## Roadmap
 
-![roadmap image](./assets/SCR-20230202-rfa.png)
+<p align="center">
+    <img src="./assets/SCR-20230202-rfa.png" alt="roadmap image" height="200">
+</p>
 
 Aztec network has been founded in 2017 by Zac Williamson and Joe Andrews and received a 2.1M core investment under the leadership of Consensys. In addition to that in 2021 under the leadership of Paradigm received 17M in series A, amounting to a toatl of 20M. Finally in 2022, lead by a16z Aztec network received 100M founding in series B.
 
@@ -30,35 +34,56 @@ Aztec network has been founded in 2017 by Zac Williamson and Joe Andrews and rec
 
 Their in house language Noir is now in test phase and is set to release for Q2 2023+. 
 
-![EVM Compatible](./assets/SCR-20230203-hit.png)
+<p align="center">
+    <img src="./assets/SCR-20230203-hit.png" alt="EVM compatible" height="200">
+</p>
 
 Aztec network has built their Rust based language and is not EVM-compatible.
 
-![Tweet](./assets/SCR-20230203-hm7.png)
+<p align="center">
+    <img src="./assets/SCR-20230203-hm7.png" alt="Tweet" height="200">
+</p>
 
 For now Aztec network seems to be in testnet for their main product Connect and their language Noir. Hence it seeems safe to assume that they are still in building phase
 
 ## Team
 
-![team image](./assets/SCR-20230202-rj7.png)
+<p align="center">
+    <img src="./assets/SCR-20230202-rj7.png" alt="zachary williamson" height="200">
+</p>
 
 Aztec network has a team of around 70 people and still hiring.
 
-![zachary williamson](./assets/SCR-20230203-hr4.png)
+<p align="center">
+    <img src="./assets/SCR-20230203-hr4.png" alt="zachary williamson" height="200">
+</p>
 
-![Experience](./assets/SCR-20230203-hqz.png)
+<p align="center">
+    <img src="./assets/SCR-20230203-hqz.png" alt="zachary williamson" height="383">
+</p>
 
 Zachary Williamson is a Doctor in Philosophy at the University of Oxford and also has a Masters in Physics. Served as a Software developer at Carallon Ltd. and was a co-hort member at EF9 befor founding Aztec protocol.
 
-![Joe andrews](./assets/SCR-20230203-hvn.png)
-![Experience 1](./assets/SCR-20230203-hv8.png)
-![Experience 2](./assets/SCR-20230203-hvg.png)
+
+<p align="center">
+    <img src="./assets/SCR-20230203-hvn.png" alt="Joe Andrews" height="200">
+</p>
+
+<p align="center">
+    <img src="./assets/SCR-20230203-hv8.png" alt="Experience 1" height="300">
+</p>
+
+<p align="center">
+    <img src="./assets/SCR-20230203-hvg.png" alt="Experience 2" height="420">
+</p>
 
  Joe Andrews co-founded multiple tech companies and served as a software engineer in multiple aswell.
 
 ## Examples and Diagrams
 
-![zk flow](./assets/SCR-20230203-gvp.png)
+<p align="center">
+    <img src="./assets/SCR-20230203-gvp.png" alt="flow" height="200">
+</p>
 
 1. User submits a tx.
 2. Aztec SDK encrypts tx and builds proof.
