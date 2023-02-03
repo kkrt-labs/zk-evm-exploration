@@ -29,7 +29,11 @@ receives L2 transactions and are in charge to generate batches which are then pr
 **Aggregator**:
 receives transaction informations from Sequencer and sends it to prover that generate small zk-proof. Smart contract then verify the proof from the prover is correct.
 
+![Proof of Efficiency overview](./assets/poe-flow-overview.png)
+
 ### Synthetised zkEVM transaction flow
+
+![Transaction flow overview](./assets/polygon-flow-overview.png)
 
 The EVM is functionning the given way. Users can can send transactions by the way of having a wallet connnected to zkEVM rpc network.
 Once these transactions are signed by customer rpc they are pushed to a mempool and then pulled by the sequencer. After this the sequencer batch the transactions to send them to the PoE smart contract. The aggregator is then playing its own role to validate and consolidate transaction batches to the smart contract. To finish the batches of transactions are then committed to L1.
