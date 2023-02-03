@@ -27,3 +27,10 @@ Pre-Alpha Testnet
 ### Team leaders
 Haichen Shen, Sandy Peng, Ye Zhang are the co-founders.
 
+### Diagrams
+![oLlyhIx](https://user-images.githubusercontent.com/32202283/216723883-eb0d05c0-8323-4b91-a14e-a134a3b4d5ad.png)
+![Sajm1E2](https://user-images.githubusercontent.com/32202283/216723893-4ada47fe-7fbe-4a0f-b2d5-64bba7c916ad.png)
+
+### Resources
+https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k  
+https://guide.scroll.io/
