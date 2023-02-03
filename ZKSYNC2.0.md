@@ -2,8 +2,9 @@
 
 zk-Sync is a Layer 2 scaling solution for the Ethereum network that utilizes zero-knowledge proofs to increase its transaction processing capacity. It allows for faster and cheaper transactions while preserving the privacy of transactions and data. The zk-EVM, a virtual machine built on top of zk-Sync, runs smart contracts and ensures their secure and verifiable execution. zk-Sync is aimed to address the scalability limitations of the Ethereum network, making it a promising solution for decentralized applications.
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/11755605/216637651-6d3159f4-6fc7-41ef-9557-c11158cff2b4.png" width=50% height=50%>
-
+</p>
 ## Programming language to code the VM:
 * Rust
 
@@ -32,9 +33,9 @@ https://github.com/matter-labs/zksync/commit/f635e252c26b1c4d3b8e913ecb96e24fb58
 * Alex Gluchowski
 
 ## Diagram
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/11755605/216640246-0b57ef00-5669-4442-beb1-fa60108c5b81.png" width=50% height=50%>
-
+</p>
 
 ## How ZK EVM compiler work?
 The zk-Sync zk-EVM compiler is responsible for compiling smart contracts written in high-level programming languages into a format that can be executed on the zk-EVM. The compiler takes the source code of a smart contract as input and produces machine-readable code in the form of bytecode that can be executed on the zk-EVM.
