@@ -34,3 +34,4 @@ Haichen Shen, Sandy Peng, Ye Zhang are the co-founders.
 ### Resources
 https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k  
 https://guide.scroll.io/
+https://immutablex.medium.com/ground-up-guide-zkevm-evm-compatibility-rollups-787b6e88108e
