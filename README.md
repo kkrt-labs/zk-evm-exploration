@@ -6,6 +6,6 @@ This repository is purely informative. This is exploration to compare difference
 
 - [x] [Polygon zkEVM](POLYGON.md)
 - [x] [Aztec Network](AZTEC_NETWORK.md)
-- [ ] Scroll
+- [x] [Scroll](SCROLL.md)
 - [ ] zkSync 2.0
 - [ ] Consensys zkEVM
