@@ -27,7 +27,7 @@ https://github.com/matter-labs/zksync/commit/f635e252c26b1c4d3b8e913ecb96e24fb58
 ## Testnet ready? Open? Beta, Alpha? 
 * Baby alpha
 
-## Date (if any) of production readyness
+## Date (if any) of production readiness
 * May 31, 2021 Alpha
 
 ## Team leader prior experience, if any (e.g. Jordi Baylina for Polygon zkEVM coinvented circom2)
