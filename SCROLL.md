@@ -17,6 +17,8 @@ Consensus algorithm -> PoA Proof of Authority
 ![oLlyhIx](https://user-images.githubusercontent.com/32202283/216723883-eb0d05c0-8323-4b91-a14e-a134a3b4d5ad.png)
 ![Sajm1E2](https://user-images.githubusercontent.com/32202283/216723893-4ada47fe-7fbe-4a0f-b2d5-64bba7c916ad.png)
 
+**More informations on this youtube video**
+[![Watch the video](https://img.youtube.com/vi/1bVe77-yfBA/hqdefault.jpg)](https://www.youtube.com/watch?v=1bVe77-yfBA&t=879s)
 
 ### Here are the connection informations.
 ---
