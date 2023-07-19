@@ -83,9 +83,42 @@ The result is a set of provably real and correct transactions executed in an EVM
 ![](./assets/linea1.webp)
 ![](./assets/linea2.webp)
 
+## Development Phases
+**Phase 0:** Linea Mainnet Alpha launch with EVM-equivalent zkEVM, forming the Security Council, and providing public access to the client software for verification.
+
+**Phase 1:** Introducing the Open Source Stack, licensing the Linea software under AGPL-3.0, and achieving 100% EVM Coverage in zkEVM arithmetization.
+
+**Phase 2:** Diversifying the Security Council and enabling Censorship Resistant Withdrawals to empower users with control over their assets.
+
+**Phase 3:** Decentralizing the roles of Provers and Sequencers, and decentralizing governance to involve community stakeholders in decision-making.
+
+**Phase 4:** Implementing a Multi-Prover rollup for enhanced reliability and exploring diverse zkEVM implementations. Limiting Governance Powers to allow only necessary upgrades and defining the Security Council's role in critical system issues.
 ### Connection Information
 ***Network name:*** Linea Mainnet  
 ***RPC URL:*** https://linea-mainnet.infura.io/v3/  
 ***Chain ID:*** 59144  
 ***Currency symbol:*** ETH  
 ***Block explorer URL:*** https://lineascan.build  
+
+## Technical Spesifications
+
+Currently only the client which will be used is opensource. 
+They are currently using a Geth version modified with zk functionalities it is called zkGeth which is written in Go.
+They will move to [zkBesu (linea-besu)](https://github.com/Consensys/linea-besu) which is a version of Besu modified with zk functionalities, and written in Java.
+  
+[First commit](https://github.com/hyperledger/besu/commit/f8c5db07fca2c3f0203c2dbc76e48c3998c8fda7) after forking Besu was done by fab-10 at Jun 14, 2023
+
+**Some of the Team Members and Contributors of Linea zkEVM**
+- Fabio Di Fabio ([fab-10](https://github.com/fab-10)) - Commits on [linea-besu](https://github.com/Consensys/linea-besu)
+- [garyschulte](https://github.com/garyschulte) - Commits on [besu-shomei-plugin](https://github.com/Consensys/besu-shomei-plugin)
+- Julien Marchand - Head of Engineering
+- Vijay K. - Head of Operations
+- Ludovic Courcelas - Head of Delivery
+- Emanuele Coscia - Growth Manager
+
+## Resources
+
+- https://docs.linea.build/
+- https://linea.mirror.xyz/qD18IaQ4BROn_Y40EBMTUTdJHYghUtdECscSWyMvm8M
+- https://github.com/Consensys/linea-besu
+- https://github.com/Consensys/besu-shomei-plugin
